@@ -39,7 +39,7 @@ The final, preferred model after the research process. This model has been optim
 ### 5. **haarcascades folder**
 Contains several pre-trained Haar Cascade XML files for face detection, which are essential for detecting faces in images before classifying the expressions.
 
-### 6. **aarcascade_frontalface_default.xml**
+### 6. **haarcascade_frontalface_default.xml**
 This specific Haar Cascade file was chosen and used in the final model for detecting frontal faces in the input images.
 
 ### 7. **proj.ipynb**
